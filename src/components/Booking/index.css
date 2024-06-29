@@ -1,0 +1,25 @@
+.heading {
+    font-size: 20px;
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+
+.buttonhead {
+font-size: medium;
+color: black;
+background-color: aqua;
+border-radius: 25px;
+height: 300px;
+width: 400px;
+}
+
+
+.container {
+
+ width: 100%;
+      padding: 10px;
+}
+
+
